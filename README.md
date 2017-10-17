@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring-rest-client-examples.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring-rest-client-examples)
+[![CircleCI](https://circleci.com/gh/strohs/spring-rest-client-examples.svg?style=svg)](https://circleci.com/gh/strohs/spring-rest-client-examples)
 # Spring Rest Client Examples
 
 Spring rest client examples using the traditional restTemplate and the new Spring5 reactive web client.
